@@ -1,0 +1,12 @@
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\bin\Debug\net7.0\Common.Helpers.deps.json
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\bin\Debug\net7.0\Common.Helpers.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\bin\Debug\net7.0\Common.Helpers.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\Common.Helpers.csproj.AssemblyReference.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\Common.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\Common.Helpers.AssemblyInfoInputs.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\Common.Helpers.AssemblyInfo.cs
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\Common.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\Common.Helpers.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\refint\Common.Helpers.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\Common.Helpers.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Helpers\obj\Debug\net7.0\ref\Common.Helpers.dll
