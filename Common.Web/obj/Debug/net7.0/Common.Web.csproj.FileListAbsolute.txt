@@ -1,0 +1,15 @@
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\bin\Debug\net7.0\Common.Web.deps.json
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\bin\Debug\net7.0\Common.Web.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\bin\Debug\net7.0\Common.Web.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\bin\Debug\net7.0\Common.Helpers.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\bin\Debug\net7.0\Common.Helpers.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.csproj.AssemblyReference.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.AssemblyInfoInputs.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.AssemblyInfo.cs
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.csproj.CoreCompileInputs.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.csproj.Up2Date
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\refint\Common.Web.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\Common.Web.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\Common.Web\obj\Debug\net7.0\ref\Common.Web.dll
