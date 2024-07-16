@@ -1,0 +1,15 @@
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\bin\Debug\net7.0\DDD.Infrastructure.deps.json
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\bin\Debug\net7.0\DDD.Infrastructure.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\bin\Debug\net7.0\DDD.Infrastructure.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\bin\Debug\net7.0\DDD.Domain.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\bin\Debug\net7.0\DDD.Domain.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infrastructure.AssemblyInfo.cs
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infr.0FAF3F89.Up2Date
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infrastructure.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\refint\DDD.Infrastructure.dll
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\DDD.Infrastructure.pdb
+C:\Users\ADM-6087535\source\repos\DDDTemplate\DDD.Infrastructure\obj\Debug\net7.0\ref\DDD.Infrastructure.dll
